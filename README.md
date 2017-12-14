@@ -27,6 +27,9 @@ CUDA_VISIBLE_DEVICES=X python train.py --model-id 4 --is-save (y or n)
 ```
 # Write in the end
 - The model was implemented in BDCI2017.
+
 - We implement eight models, such as FastText, TextCNN, TextRNN, RCNN, HAN, CNNInception, CNNWithDoc2Vec, RCNNWithDoc2Vec.
+
 - I just make contribution to HAN model.
+
 - Thanks for my teammates, lhliu, dyhu.
