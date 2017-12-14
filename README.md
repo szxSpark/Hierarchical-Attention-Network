@@ -4,7 +4,7 @@ HAN model. Three versions.
 - **version 2**:  Pytorch, pack_padded_sequence
 - **version 3**:  Pytorch, mask matrix
 # Paper
-[Hierarchical Attention Network(readed in 2017/10 by szx)](http://www.aclweb.org/anthology/N16-1174)
+[Hierarchical Attention Network (readed in 2017/10 by szx)](http://www.aclweb.org/anthology/N16-1174)
 # Task Instruction
 - **Text Classification**
 # Code Instruction
